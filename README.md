@@ -12,6 +12,9 @@ A windows application for dietician clinics.
 * Standard Features
   * Customer Management
   * Appointment Management
+* Disadvantages
+  * Application language is Turkish only.
+  * There may be dependancies needed to run in your windows version which were not reported yet.
 
 ## Installation on Windows
 * There is no installation. Just copy files from debug folder into flash drive.
