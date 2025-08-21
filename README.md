@@ -22,3 +22,4 @@ A windows application for dietician clinics.
 
 ## About the author
 * Samed is a full-stack web developer from QC, creating responsive enterprise systems and informatics architectures for the Web.
+![Alt text](/screenshot.jpg?raw=true "Application Screenshot")
