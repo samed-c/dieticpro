@@ -5,6 +5,8 @@ A windows application for dietician clinics.
 
 * Dietic Pro Compact version is a simple and portable windows app for small dietician clinics which they want to keep and carry their customer data with app offline into flash disk.
 
+![Alt text](/screenshot.jpg?raw=true "Application Screenshot")
+
 ## Documentation
 * We unfortunately do not have a complete documentation for this product.
 
@@ -22,4 +24,3 @@ A windows application for dietician clinics.
 
 ## About the author
 * Samed is a full-stack web developer from QC, creating responsive enterprise systems and informatics architectures for the Web.
-![Alt text](/screenshot.jpg?raw=true "Application Screenshot")
