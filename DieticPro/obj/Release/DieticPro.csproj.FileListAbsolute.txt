@@ -1,0 +1,9 @@
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Release\DieticPro.Forms.AddNewCustomer.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Release\DieticPro.MainForm.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Release\DieticPro.Properties.Resources.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Release\DieticPro.csproj.GenerateResource.Cache
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Release\DieticPro.Forms.About.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Release\DieticPro.Forms.SomeOtherForm.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Release\DieticPro.Forms.AddNewSeance.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Release\DieticPro.Forms.EditSeance.resources

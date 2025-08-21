@@ -1,0 +1,99 @@
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\DieticPro\bin\Debug\DieticPro.exe
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\DieticPro\bin\Debug\DieticPro.pdb
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\DieticPro\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\DieticPro\obj\Debug\DieticPro.MainForm.resources
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\DieticPro\obj\Debug\DieticPro.Properties.Resources.resources
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\DieticPro\obj\Debug\DieticPro.csproj.GenerateResource.Cache
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\DieticPro\obj\Debug\DieticPro.exe
+D:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\DieticPro\obj\Debug\DieticPro.pdb
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.exe
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.pdb
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\bin\Debug\DieticPro.exe
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\bin\Debug\DieticPro.pdb
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.MainForm.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Properties.Resources.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.csproj.GenerateResource.Cache
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.About.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.AddNewSeance.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.AddNewCustomer.resources
+D:\Documents and Settings\Admin\Desktop\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.EditSeance.resources
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.exe
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.pdb
+D:\Localhost\DieticPro\DieticPro\DieticPro\bin\Debug\DieticPro.exe
+D:\Localhost\DieticPro\DieticPro\DieticPro\bin\Debug\DieticPro.pdb
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\ResolveAssemblyReference.cache
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.About.resources
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.AddNewCustomer.resources
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.AddNewSeance.resources
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.EditSeance.resources
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.MainForm.resources
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Properties.Resources.resources
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Localhost\DieticPro\DieticPro\DieticPro\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.exe
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.pdb
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\bin\Debug\DieticPro.exe
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\bin\Debug\DieticPro.pdb
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.About.resources
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.AddNewCustomer.resources
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.AddNewSeance.resources
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.MainForm.resources
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Properties.Resources.resources
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.EditSeance.resources
+D:\Projects\Resources\Windows\DieticPro\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.ShowSeance.resources
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\DieticPro.exe
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\DieticPro.pdb
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\bin\Debug\DieticPro.exe
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\bin\Debug\DieticPro.pdb
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\ResolveAssemblyReference.cache
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.About.resources
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.AddNewCustomer.resources
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.AddNewSeance.resources
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.EditSeance.resources
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\DieticPro.MainForm.resources
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\DieticPro.Forms.ShowSeance.resources
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\DieticPro.Properties.Resources.resources
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\source2\Dietic Pro Compact\DieticPro\DieticPro\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.exe
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.pdb
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\bin\Debug\DieticPro.exe
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\bin\Debug\DieticPro.pdb
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Forms.About.resources
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Forms.AddNewCustomer.resources
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Forms.AddNewSeance.resources
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Forms.EditSeance.resources
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.MainForm.resources
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Forms.ShowSeance.resources
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Properties.Resources.resources
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Projects\Resources\Windows\DieticPro Compact\DieticPro\bin\Debug\DieticPro.exe.config
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\bin\Debug\DieticPro.exe.config
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.exe
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.pdb
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\bin\Debug\DieticPro.exe
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\bin\Debug\DieticPro.pdb
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Forms.About.resources
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Forms.AddNewCustomer.resources
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Forms.AddNewSeance.resources
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Forms.EditSeance.resources
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.MainForm.resources
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Forms.ShowSeance.resources
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.Properties.Resources.resources
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\GenerateResource.read.1.tlog
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\GenerateResource.write.1.tlog
+F:\Localhost\Completed Projects\Resources\Windows\DieticPro Compact\DieticPro\bin\Debug\DieticPro.exe.config
+F:\Localhost\Completed Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.exe
+F:\Localhost\Completed Projects\Resources\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.pdb
+F:\Documents\Projects\Windows\DieticPro Compact\DieticPro\bin\Debug\DieticPro.exe.config
+F:\Documents\Projects\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.exe
+F:\Documents\Projects\Windows\DieticPro Compact\DieticPro\obj\Debug\DieticPro.pdb
